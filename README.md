@@ -44,10 +44,6 @@ Using SQL to aggregate escalated support cases, the data reveals critical vulner
 * **Power BI:** Building deep-dive relational data models and interactive operational dashboards.
 * **Python & R:** Reproducible data scripting and statistical plotting.
 
-## Visualizations & Dashboards
-
-This project delivers insights across three major reporting tools:
-
 * **Excel Dashboard (`visualization/customer_dashboard.xlsx`):** Utilizes Pivot Tables and Pivot Charts for dynamic customer segmentation summaries.
   
   ![Excel Dashboard Overview](./visualization/Excel_dashboard.png)
@@ -57,3 +53,5 @@ This project delivers insights across three major reporting tools:
   ![Power BI Dashboard Overview](./visualization/Power_BI_dashboard.png)
 
 * **R ggplot2 (`visualization/r_escalation_chart.png`):** Custom static chart tracking support ticket escalation patterns.
+  
+  ![R Chart Overview](./visualization/r_escalation_chart.png)
